@@ -1,5 +1,3 @@
-flask
-numpy
-pandas
-scikit-learn
-gunicorn
+git add .
+git commit -m "fixed requirements"
+git push
